@@ -24,10 +24,12 @@ Mediapipe Holistic Framework: A detailed explanation of how the Mediapipe Holist
 
 ML Model Development: Insights into the development of the ML model for measuring attentiveness.
 
+Results and Implications: An analysis of the results and the potential implications for enhancing learning efficiency in the classroom.
+
 Contact:
 
 If you have any questions, suggestions, or would like to collaborate on this project, please feel free to reach out to us:
 
 Email: glendhingra27@gmail.com
 
-Results and Implications: An analysis of the results and the potential implications for enhancing learning efficiency in the classroom.
+
