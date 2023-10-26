@@ -1,10 +1,12 @@
 # Detecting Student's Attentiveness in the Classroom Using MediaPipe Holistic Framework
 
-![Project Image](Images/Image3.jpg)
 
 ## Project Overview
 
 This project proposes a solution that utilizes the MediaPipe Holistic Framework to detect and predict the attentiveness of students in a classroom based on their live video feed. The prediction is based on an evaluation of four different factors: looking at the screen, posture, eye position, and hand position. This solution is a combination of scientific research, practical considerations, and technological feasibility.
+
+![Project Image](Images/Image3.jpg)
+
 
 ### Factors Explained
 
