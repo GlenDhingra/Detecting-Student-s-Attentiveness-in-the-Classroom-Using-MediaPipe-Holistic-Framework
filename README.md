@@ -56,6 +56,3 @@ If you have questions, suggestions, or would like to collaborate on this project
 
 I am dedicated to enhancing classroom engagement through attentiveness detection and value your support and contributions.
 
----
-
-*This project is open-source and available under the [MIT License](LICENSE.md).*
