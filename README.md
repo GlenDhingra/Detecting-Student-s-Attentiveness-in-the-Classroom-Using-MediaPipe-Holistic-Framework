@@ -21,6 +21,8 @@ This project proposes a solution that utilizes the MediaPipe Holistic Framework 
 ![System Flow](Images/Image1.jpg)
 
 ![System Flow](Images/Image2.jpg)
+
+
 The system captures the live video feed of students during a classroom session. Using the MediaPipe Holistic Framework, key points are extracted from the video, and these points are used to evaluate the four factors mentioned above. A predictive model assesses the attentiveness of the student based on these factors and provides insights into their level of engagement in the classroom.
 
 ## Implementation Images
@@ -35,7 +37,6 @@ The system captures the live video feed of students during a classroom session. 
 
 ![Implementation Image 5](Images/Image7.jpg)
 
-![Implementation Image 6](Images/Image1.jpg)
 
 ## Contributing
 
