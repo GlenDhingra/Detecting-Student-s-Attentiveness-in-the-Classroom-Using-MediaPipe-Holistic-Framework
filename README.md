@@ -1,6 +1,6 @@
 # Detecting Student's Attentiveness in the Classroom Using MediaPipe Holistic Framework
 
-![Project Image](Images/Image1.jpg)
+![Project Image](Images/Image3.jpg)
 
 ## Project Overview
 
@@ -18,15 +18,24 @@ This project proposes a solution that utilizes the MediaPipe Holistic Framework 
 
 ## How It Works
 
-![System Flow](/images/system_flow.png)
+![System Flow](Images/Image1.jpg)
 
+![System Flow](Images/Image2.jpg)
 The system captures the live video feed of students during a classroom session. Using the MediaPipe Holistic Framework, key points are extracted from the video, and these points are used to evaluate the four factors mentioned above. A predictive model assesses the attentiveness of the student based on these factors and provides insights into their level of engagement in the classroom.
 
 ## Implementation Images
 
-![Implementation Image 1](/images/implementation1.png)
+![Implementation Image 1](Images/Image3.jpg)
 
-![Implementation Image 2](/images/implementation2.png)
+![Implementation Image 2](Images/Image4.jpg)
+
+![Implementation Image 3](Images/Image5.jpg)
+
+![Implementation Image 4](Images/Image6.jpg)
+
+![Implementation Image 5](Images/Image7.jpg)
+
+![Implementation Image 6](Images/Image1.jpg)
 
 ## Contributing
 
@@ -40,12 +49,11 @@ If you are interested in contributing to this project, we welcome your input. He
 
 ## Contact
 
-If you have questions, suggestions, or would like to collaborate on this project, please feel free to reach out to us:
+If you have questions, suggestions, or would like to collaborate on this project, please feel free to reach out to me:
 
-- Email: projectteam@example.com
-- Issue Tracker: [GitHub Issues](https://github.com/your-username/project-repo/issues)
+- Email: glendhingra27@gmail.com
 
-We are dedicated to enhancing classroom engagement through attentiveness detection and value your support and contributions.
+I am dedicated to enhancing classroom engagement through attentiveness detection and value your support and contributions.
 
 ---
 
