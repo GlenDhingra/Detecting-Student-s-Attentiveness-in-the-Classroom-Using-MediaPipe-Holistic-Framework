@@ -1,6 +1,6 @@
 # Detecting Student's Attentiveness in the Classroom Using MediaPipe Holistic Framework
 
-![Project Image](/images/project_image.png)
+![Project Image](Images/Image1.jpg)
 
 ## Project Overview
 
